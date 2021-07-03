@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/irfangg)
 ![Irfan GG's GitHub stats](https://github-readme-stats.vercel.app/api?username=irfangg&show_icons=true&theme=radical)
-[![Irfan gg's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=irfangg)](https://github.com/irfangg/github-readme-stats)
+[![Irfan gg's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=irfangg)](https://github.com/anuraghazra/github-readme-stats)
 
 
