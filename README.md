@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 ![Irfan GG's GitHub stats](https://github-readme-stats.vercel.app/api?username=irfangg&show_icons=true&theme=radical)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irfangg&layout=compact)](https://github.com/irfangg/github-readme-stats)
