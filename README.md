@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2>I'm Irfan G G ! </h2>
+<h2>I'm Irfan G G ! <img src='https://media.giphy.com/media/fZ91xzFtKWmoJSD4TK/giphy.gif' width='50'></h2>
 <img align='right' src='https://media.giphy.com/media/gFmkpNCar7TSoauRUs/giphy.gif' width="420" height="400">
 
 <p><em>Front End Engineer at <a href="https://www.preqin.com/">Preqin</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
