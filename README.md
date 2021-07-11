@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!--
 **irfangg/irfangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/irfangg)
 ![Irfan GG's GitHub stats](https://github-readme-stats.vercel.app/api?username=irfangg&show_icons=true&theme=radical)
