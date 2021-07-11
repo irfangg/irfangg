@@ -59,7 +59,7 @@ Windows                  17 hrs 22 mins      ███████████�
 
 ```
 
-**I Mostly Code in HTML** 
+**I Mostly Code in JavaScript** 
 
 ```text
 HTML                     7 repos             ███████████░░░░░░░░░░░░░░   43.75% 
