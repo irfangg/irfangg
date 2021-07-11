@@ -115,4 +115,4 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 [1]: https://twitter.com/irfangg6
 [2]: https://www.linkedin.com/in/irfangg/
 -->
-[![Waka Readme](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml/badge.svg)](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml)
+<!-- [![Waka Readme](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml/badge.svg)](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml) -->
