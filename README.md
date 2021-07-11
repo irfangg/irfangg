@@ -6,6 +6,11 @@
 <p><em>Front End Engineer at <a href="https://www.preqin.com/">Preqin</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=irfangg6)
+[![Linkedin: irfangg](https://img.shields.io/badge/-irfangg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irfangg/)](https://www.linkedin.com/in/irfangg/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://irfangg.github.io/)](https://irfangg.github.io/)
+[![Waka Readme](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml/badge.svg)](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml)
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-168-blue)
 
