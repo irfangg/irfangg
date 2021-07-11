@@ -1,6 +1,10 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-134-blue)
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=irfangg6)
+[![Linkedin: irfangg](https://img.shields.io/badge/-irfangg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irfangg/)](https://www.linkedin.com/in/irfangg/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://irfangg.github.io/)](https://irfangg.github.io/)
+[![Waka Readme](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml/badge.svg)](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34148%20lines%20of%20code-blue)
 
