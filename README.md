@@ -7,21 +7,17 @@
 </em></p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-134-blue)
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=irfangg6)
-[![Linkedin: irfangg](https://img.shields.io/badge/-irfangg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irfangg/)](https://www.linkedin.com/in/irfangg/)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://irfangg.github.io/)](https://irfangg.github.io/)
-[![Waka Readme](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml/badge.svg)](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-168-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34148%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34182%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 59 Contributions in the Year 2021
+> 🏆 68 Contributions in the Year 2021
  > 
-> 📦 17.3 kB Used in Github's Storage 
+> 📦 17.9 kB Used in Github's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 57 Public Repositories 
  > 
@@ -30,22 +26,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.16% 
-🌆 Daytime    15 commits     ███████░░░░░░░░░░░░░░░░░░   30.61% 
-🌃 Evening    28 commits     ██████████████░░░░░░░░░░░   57.14% 
-🌙 Night      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.08%
+🌞 Morning    4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
+🌆 Daytime    24 commits     ██████████░░░░░░░░░░░░░░░   41.38% 
+🌃 Evening    28 commits     ████████████░░░░░░░░░░░░░   48.28% 
+🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       10 commits     █████░░░░░░░░░░░░░░░░░░░░   20.41% 
-Tuesday      3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.12% 
-Wednesday    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.04% 
-Thursday     2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.08% 
+Monday       10 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.24% 
+Tuesday      3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.17% 
+Wednesday    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.72% 
+Thursday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
 Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     21 commits     ██████████░░░░░░░░░░░░░░░   42.86% 
-Sunday       12 commits     ██████░░░░░░░░░░░░░░░░░░░   24.49%
+Saturday     21 commits     █████████░░░░░░░░░░░░░░░░   36.21% 
+Sunday       21 commits     █████████░░░░░░░░░░░░░░░░   36.21%
 
 ```
 
@@ -70,7 +66,7 @@ Windows                  17 hrs 22 mins      ███████████�
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in HTML** 
 
 ```text
 HTML                     7 repos             ███████████░░░░░░░░░░░░░░   43.75% 
