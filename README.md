@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<h2>I'm Irfan G G !</h2>
-<img align='right' src="https://media.giphy.com/media/Q8OHiZlD4VdKS5mTwG/giphy.gif" width="230">
+<h2>I'm Irfan G G ! </h2>
+<img align='right' src='https://media.giphy.com/media/gFmkpNCar7TSoauRUs/giphy.gif' width="420" height="400">
+
 <p><em>Front End Engineer at <a href="https://www.preqin.com/">Preqin</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
