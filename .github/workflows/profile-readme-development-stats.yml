@@ -18,3 +18,11 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
           LOCALE: "en"
+
+      - name: Set git username and email
+        run: |
+          #
+          git config --global user.email "${GH_USERNAME}@users.noreply.github.com"
+          git config --global user.name "${GH_USERNAME}"
+          env:
+          GH_USERNAME: ${{ github.actor }}
