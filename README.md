@@ -12,13 +12,13 @@
 [![Waka Readme](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml/badge.svg)](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-187-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34282%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 89 Contributions in the Year 2021
+> 🏆 90 Contributions in the Year 2021
  > 
 > 📦 18.7 kB Used in Github's Storage 
  > 
@@ -57,17 +57,17 @@ Sunday       29 commits     █████████░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 hrs               ███████████░░░░░░░░░░░░░░   43.68% 
-JSON                     1 hr 48 mins        █████████░░░░░░░░░░░░░░░░   39.31% 
-YAML                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33% 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54%
+JavaScript               2 hrs               ██████████░░░░░░░░░░░░░░░   41.3% 
+JSON                     1 hr 56 mins        ██████████░░░░░░░░░░░░░░░   39.82% 
+YAML                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.15% 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
 
 🔥 Editors: 
-VS Code                  4 hrs 36 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 52 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  4 hrs 36 mins       █████████████████████████   100.0%
+Windows                  4 hrs 52 mins       █████████████████████████   100.0%
 
 ```
 
@@ -88,7 +88,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/irfangg/irfangg/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/07/2021
+ Last Updated on 26/07/2021
 <!--END_SECTION:waka-->
 <!--
 **irfangg/irfangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
