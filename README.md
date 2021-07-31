@@ -12,13 +12,13 @@
 [![Waka Readme](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml/badge.svg)](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-94-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-93-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34287%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34289%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 100 Contributions in the Year 2021
+> 🏆 105 Contributions in the Year 2021
  > 
 > 📦 18.8 kB Used in Github's Storage 
  > 
@@ -26,27 +26,27 @@
  > 
 > 📜 58 Public Repositories 
  > 
-> 🔑 2 Private Repositories  
+> 🔑 3 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.88% 
-🌆 Daytime    30 commits     █████████░░░░░░░░░░░░░░░░   36.59% 
-🌃 Evening    46 commits     ██████████████░░░░░░░░░░░   56.1% 
-🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44%
+🌞 Morning    4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.82% 
+🌆 Daytime    31 commits     █████████░░░░░░░░░░░░░░░░   37.35% 
+🌃 Evening    46 commits     █████████████░░░░░░░░░░░░   55.42% 
+🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       15 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.29% 
-Tuesday      7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.54% 
-Wednesday    8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
-Thursday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44% 
+Monday       15 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.07% 
+Tuesday      7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.43% 
+Wednesday    8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.64% 
+Thursday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41% 
 Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     21 commits     ██████░░░░░░░░░░░░░░░░░░░   25.61% 
-Sunday       29 commits     ████████░░░░░░░░░░░░░░░░░   35.37%
+Saturday     22 commits     ██████░░░░░░░░░░░░░░░░░░░   26.51% 
+Sunday       29 commits     ████████░░░░░░░░░░░░░░░░░   34.94%
 
 ```
 
