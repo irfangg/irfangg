@@ -12,7 +12,7 @@
 [![Waka Readme](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml/badge.svg)](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34289%20lines%20of%20code-blue)
 
@@ -57,17 +57,15 @@ Sunday       29 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               8 hrs 10 mins       ██████████████████████░░░   90.51% 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.57% 
-CSS                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42% 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
+JavaScript               1 hr 59 mins        ██████████████████████░░░   87.93% 
+JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.82% 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25%
 
 🔥 Editors: 
-VS Code                  9 hrs 2 mins        █████████████████████████   100.0%
+VS Code                  2 hrs 15 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  9 hrs 2 mins        █████████████████████████   100.0%
+Windows                  2 hrs 15 mins       █████████████████████████   100.0%
 
 ```
 
@@ -88,7 +86,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/irfangg/irfangg/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/08/2021
+ Last Updated on 15/08/2021
 <!--END_SECTION:waka-->
 <!--
 **irfangg/irfangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
