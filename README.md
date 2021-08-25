@@ -57,13 +57,17 @@ Sunday       29 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 2 mins         ██████████████████░░░░░░░   73.08% 
+JSON                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.78% 
+HTML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.79% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 25 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 25 mins        █████████████████████████   100.0%
 
 ```
 
@@ -84,7 +88,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/irfangg/irfangg/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/08/2021
+ Last Updated on 25/08/2021
 <!--END_SECTION:waka-->
 <!--
 **irfangg/irfangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
