@@ -85,7 +85,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/irfangg/irfangg/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/01/2022
+ Last Updated on 21/01/2022
 <!--END_SECTION:waka-->
 <!--
 **irfangg/irfangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
