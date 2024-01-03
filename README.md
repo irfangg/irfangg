@@ -12,79 +12,82 @@
 [![Waka Readme](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml/badge.svg)](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%204%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-34469%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-**🐱 My Github Data** 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-211.2%20thousand%20lines%20of%20code-blue)
 
-> 🏆 7 Contributions in the Year 2022
+**🐱 My GitHub Data** 
+
+> 📦 19.0 kB Used in GitHub's Storage 
  > 
-> 📦 18.1 kB Used in Github's Storage 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 59 Public Repositories 
+> 📜 64 Public Repositories 
  > 
-> 🔑 4 Private Repositories  
+> 🔑 4 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌃 Evening    3 commits      █████████████████████████   100.0% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
+🌞 Morning                15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+🌆 Daytime                135 commits         ███████████░░░░░░░░░░░░░░   44.85 % 
+🌃 Evening                144 commits         ████████████░░░░░░░░░░░░░   47.84 % 
+🌙 Night                  7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       3 commits      █████████████████████████   100.0%
-
+Monday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Tuesday                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Wednesday                84 commits          ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+Thursday                 23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 62 commits          █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
+Sunday                   84 commits          ███████░░░░░░░░░░░░░░░░░░   27.91 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
+🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               11 hrs 38 mins      ████████████████████░░░░░   78.94 % 
+TypeScript               1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+SCSS                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  14 hrs 44 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
-
+Windows                  14 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               8 repos             ███████████░░░░░░░░░░░░░░   47.06% 
-HTML                     6 repos             ████████░░░░░░░░░░░░░░░░░   35.29% 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
-
+JavaScript               9 repos             ███████████░░░░░░░░░░░░░░   45.00 % 
+HTML                     6 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
+
 
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/irfangg/irfangg/main/charts/bar_graph.png) 
+![Lines of Code chart](https://raw.githubusercontent.com/irfangg/irfangg/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2022
+ Last Updated on 03/01/2024 03:53:54 UTC
 <!--END_SECTION:waka-->
 <!--
 **irfangg/irfangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
