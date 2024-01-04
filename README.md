@@ -12,9 +12,9 @@
 [![Waka Readme](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml/badge.svg)](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-211.2%20thousand%20lines%20of%20code-blue)
 
@@ -57,17 +57,17 @@ Sunday                   84 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               11 hrs 38 mins      ████████████████████░░░░░   78.94 % 
-TypeScript               1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-SCSS                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+JavaScript               12 hrs 1 min        ████████████████████░░░░░   78.41 % 
+TypeScript               1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Markdown                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+SCSS                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 44 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 20 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  14 hrs 44 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +87,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/irfangg/irfangg/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2024 03:53:54 UTC
+ Last Updated on 04/01/2024 00:55:16 UTC
 <!--END_SECTION:waka-->
 <!--
 **irfangg/irfangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
