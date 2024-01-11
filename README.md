@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-211.2%20thousand%20lines%20of%20code-blue)
 
@@ -57,16 +57,17 @@ Sunday                   84 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               23 mins             ████████████████░░░░░░░░░   65.32 % 
-Markdown                 11 mins             ████████░░░░░░░░░░░░░░░░░   31.28 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+JavaScript               52 mins             ████████████████████████░   95.31 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-VS Code                  35 mins             █████████████████████████   100.00 % 
+VS Code                  55 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  35 mins             █████████████████████████   100.00 % 
+Windows                  55 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +87,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/irfangg/irfangg/main/assets/bar_graph.png)
 
 
- Last Updated on 10/01/2024 00:56:40 UTC
+ Last Updated on 11/01/2024 00:56:33 UTC
 <!--END_SECTION:waka-->
 <!--
 **irfangg/irfangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
