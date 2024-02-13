@@ -12,7 +12,7 @@
 [![Waka Readme](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml/badge.svg)](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -57,17 +57,17 @@ Sunday                   84 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               23 hrs 39 mins      ███████████████████████░░   90.63 % 
-JavaScript               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-reStructuredText         17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-TSConfig                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+TypeScript               20 hrs 25 mins      ███████████████████████░░   91.48 % 
+JavaScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+reStructuredText         17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+TSConfig                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 6 mins       █████████████████████████   100.00 % 
+VS Code                  22 hrs 19 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  26 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  22 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +87,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/irfangg/irfangg/main/assets/bar_graph.png)
 
 
- Last Updated on 12/02/2024 00:52:44 UTC
+ Last Updated on 13/02/2024 00:52:42 UTC
 <!--END_SECTION:waka-->
 <!--
 **irfangg/irfangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
