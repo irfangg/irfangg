@@ -22,6 +22,8 @@
 
 > 📦 19.1 kB Used in GitHub's Storage 
  > 
+> 🏆 2 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 65 Public Repositories 
@@ -55,13 +57,13 @@ Sunday                   84 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               16 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  16 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  16 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,7 +83,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/irfangg/irfangg/main/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2024 00:57:44 UTC
+ Last Updated on 22/04/2024 00:55:40 UTC
 <!--END_SECTION:waka-->
 <!--
 **irfangg/irfangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
