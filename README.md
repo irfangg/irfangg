@@ -12,7 +12,7 @@
 [![Waka Readme](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml/badge.svg)](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-199%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-199%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -57,17 +57,13 @@ Sunday                   84 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               39 mins             ███████████░░░░░░░░░░░░░░   45.65 % 
-JavaScript               39 mins             ███████████░░░░░░░░░░░░░░   44.89 % 
-JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+TypeScript               14 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 27 mins        █████████████████████████   100.00 % 
+VS Code                  14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 27 mins        █████████████████████████   100.00 % 
+Windows                  14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +83,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/irfangg/irfangg/main/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2024 00:58:21 UTC
+ Last Updated on 15/06/2024 00:58:34 UTC
 <!--END_SECTION:waka-->
 <!--
 **irfangg/irfangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
