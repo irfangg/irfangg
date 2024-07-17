@@ -12,7 +12,7 @@
 [![Waka Readme](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml/badge.svg)](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -20,7 +20,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 19.7 kB Used in GitHub's Storage 
+> 📦 19.8 kB Used in GitHub's Storage 
  > 
 > 🏆 4 Contributions in the Year 2024
  > 
@@ -57,17 +57,17 @@ Sunday                   84 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     45 mins             ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-Groovy                   42 mins             ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-Kotlin                   40 mins             █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-TypeScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-JavaScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+TypeScript               2 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   37.02 % 
+Groovy                   1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+Kotlin                   59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+JSON                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+JavaScript               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 5 mins        █████████████████████████   100.00 % 
+VS Code                  7 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  7 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +87,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/irfangg/irfangg/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2024 01:01:29 UTC
+ Last Updated on 17/07/2024 01:00:59 UTC
 <!--END_SECTION:waka-->
 <!--
 **irfangg/irfangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
