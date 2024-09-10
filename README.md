@@ -12,6 +12,8 @@
 [![Waka Readme](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml/badge.svg)](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%2051%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-216.2%20thousand%20lines%20of%20code-blue)
@@ -28,6 +30,42 @@
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+🌆 Daytime                135 commits         ███████████░░░░░░░░░░░░░░   44.26 % 
+🌃 Evening                145 commits         ████████████░░░░░░░░░░░░░   47.54 % 
+🌙 Night                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Tuesday                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Wednesday                87 commits          ███████░░░░░░░░░░░░░░░░░░   28.52 % 
+Thursday                 24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 62 commits          █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+Sunday                   84 commits          ███████░░░░░░░░░░░░░░░░░░   27.54 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -45,7 +83,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/irfangg/irfangg/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2024 01:07:19 UTC
+ Last Updated on 10/09/2024 01:06:03 UTC
 <!--END_SECTION:waka-->
 <!--
 **irfangg/irfangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
