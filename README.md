@@ -12,7 +12,7 @@
 [![Waka Readme](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml/badge.svg)](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-225%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-226%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -57,15 +57,17 @@ Sunday                   84 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               11 mins             ██████████████░░░░░░░░░░░   57.63 % 
-JSON                     7 mins              █████████░░░░░░░░░░░░░░░░   37.02 % 
-TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+JavaScript               3 hrs 9 mins        ████████████░░░░░░░░░░░░░   49.52 % 
+Other                    59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+JSON                     55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+TypeScript               54 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+HTML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+VS Code                  6 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.00 % 
+Windows                  6 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,7 +87,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/irfangg/irfangg/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2024 01:14:19 UTC
+ Last Updated on 28/10/2024 01:12:11 UTC
 <!--END_SECTION:waka-->
 <!--
 **irfangg/irfangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
