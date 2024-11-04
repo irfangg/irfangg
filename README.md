@@ -12,8 +12,6 @@
 [![Waka Readme](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml/badge.svg)](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%209%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-216.2%20thousand%20lines%20of%20code-blue)
@@ -21,8 +19,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 19.8 kB Used in GitHub's Storage 
- > 
-> 🏆 4 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -57,17 +53,13 @@ Sunday                   84 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 hrs 58 mins       ████████████░░░░░░░░░░░░░   49.08 % 
-Other                    59 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-TypeScript               53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-JSON                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-HTML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 hrs 2 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 hrs 2 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +79,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/irfangg/irfangg/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2024 01:14:11 UTC
+ Last Updated on 04/11/2024 01:11:16 UTC
 <!--END_SECTION:waka-->
 <!--
 **irfangg/irfangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
