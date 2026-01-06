@@ -12,9 +12,11 @@
 [![Waka Readme](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml/badge.svg)](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%2058%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-216.35%20thousand%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-216.35%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -28,6 +30,42 @@
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+🌆 Daytime                135 commits         ███████████░░░░░░░░░░░░░░   43.69 % 
+🌃 Evening                146 commits         ████████████░░░░░░░░░░░░░   47.25 % 
+🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Tuesday                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Wednesday                87 commits          ███████░░░░░░░░░░░░░░░░░░   28.16 % 
+Thursday                 24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 62 commits          █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+Sunday                   85 commits          ███████░░░░░░░░░░░░░░░░░░   27.51 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -45,7 +83,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/irfangg/irfangg/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 01:43:54 UTC
+ Last Updated on 06/01/2026 01:26:41 UTC
 <!--END_SECTION:waka-->
 <!--
 **irfangg/irfangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
