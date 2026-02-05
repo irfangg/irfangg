@@ -3,7 +3,7 @@
 <h2>I'm Irfan G G ! <img src='https://media.giphy.com/media/fZ91xzFtKWmoJSD4TK/giphy.gif' width='50'></h2>
 <img align='right' src='https://media.giphy.com/media/ddZXIrimeaXY0xclfC/giphy.gif' width="420" height="400">
 
-<p><em>Front End Engineer at <a href="https://www.preqin.com/">Preqin</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Staff Engineer at <a href="https://www.altimetrik.com/">Altimetrik</a> | <a href="https://www.preqin.com/">Ex Preqin</a> | Ex Sonata softwarre | Ex Capgemini<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=irfangg6)
