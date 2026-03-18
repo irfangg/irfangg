@@ -57,15 +57,13 @@ Sunday                   87 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               36 mins             ████████████████░░░░░░░░░   62.21 % 
-TypeScript               20 mins             █████████░░░░░░░░░░░░░░░░   34.22 % 
-Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  58 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  58 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,7 +83,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/irfangg/irfangg/main/assets/bar_graph.png)
 
 
- Last Updated on 17/03/2026 01:56:19 UTC
+ Last Updated on 18/03/2026 02:00:08 UTC
 <!--END_SECTION:waka-->
 <!--
 **irfangg/irfangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
