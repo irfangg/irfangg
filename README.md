@@ -12,9 +12,9 @@
 [![Waka Readme](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml/badge.svg)](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2031%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-251.72%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -57,17 +57,17 @@ Sunday                   87 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 4 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   38.96 % 
-TypeScript               3 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   34.51 % 
-JSON                     1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-TSConfig                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-Text                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Markdown                 4 hrs 23 mins       ███████████░░░░░░░░░░░░░░   45.38 % 
+TypeScript               2 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+JSON                     1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+TSConfig                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Text                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 17 mins      █████████████████████████   100.00 % 
+VS Code                  9 hrs 41 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +87,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/irfangg/irfangg/main/assets/bar_graph.png)
 
 
- Last Updated on 02/04/2026 02:03:53 UTC
+ Last Updated on 03/04/2026 02:05:34 UTC
 <!--END_SECTION:waka-->
 <!--
 **irfangg/irfangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
