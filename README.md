@@ -28,42 +28,6 @@
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-🌆 Daytime                144 commits         ███████████░░░░░░░░░░░░░░   44.44 % 
-🌃 Evening                151 commits         ████████████░░░░░░░░░░░░░   46.60 % 
-🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Tuesday                  20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-Wednesday                90 commits          ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-Thursday                 25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 70 commits          █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
-Sunday                   87 commits          ███████░░░░░░░░░░░░░░░░░░   26.85 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -81,7 +45,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/irfangg/irfangg/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 02:25:47 UTC
+ Last Updated on 25/07/2026 02:24:16 UTC
 <!--END_SECTION:waka-->
 <!--
 **irfangg/irfangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
