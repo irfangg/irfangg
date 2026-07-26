@@ -12,30 +12,68 @@
 [![Waka Readme](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml/badge.svg)](https://github.com/irfangg/irfangg/actions/workflows/profile-readme-development-stats.yml)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2040%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-252.38%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 37.4 kB Used in GitHub's Storage 
+> 📦 38.0 kB Used in GitHub's Storage 
  > 
-> 🏆 23 Contributions in the Year 2026
+> 🏆 30 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 75 Public Repositories 
  > 
-> 🔑 4 Private Repositories 
+> 🔑 5 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+🌆 Daytime                144 commits         ███████████░░░░░░░░░░░░░░   44.44 % 
+🌃 Evening                151 commits         ████████████░░░░░░░░░░░░░   46.60 % 
+🌙 Night                  13 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Tuesday                  20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Wednesday                90 commits          ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+Thursday                 25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 70 commits          █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
+Sunday                   87 commits          ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               12 repos            ███████████░░░░░░░░░░░░░░   44.44 % 
-HTML                     6 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-TypeScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-MATLAB                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+JavaScript               13 repos            ████████████░░░░░░░░░░░░░   46.43 % 
+HTML                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+MATLAB                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
@@ -45,7 +83,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/irfangg/irfangg/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 02:24:16 UTC
+ Last Updated on 26/07/2026 02:30:58 UTC
 <!--END_SECTION:waka-->
 <!--
 **irfangg/irfangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
