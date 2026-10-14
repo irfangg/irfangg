@@ -77,11 +77,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               13 repos            ████████████░░░░░░░░░░░░░   46.43 % 
-HTML                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-MATLAB                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+JavaScript               13 repos            ████████████░░░░░░░░░░░░░   48.15 % 
+HTML                     6 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+MATLAB                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
@@ -91,7 +91,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/irfangg/irfangg/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 05:23:17 UTC
+ Last Updated on 14/10/2026 03:27:32 UTC
 <!--END_SECTION:waka-->
 <!--
 **irfangg/irfangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
